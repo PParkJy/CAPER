@@ -1,5 +1,5 @@
 # CAPER
-"CAPER: Code-Aware Paired-End Read Merging in DNA Data Storage" was submitted to *IEEE Transactions on NanoBioscience* (October 2026).
+"CAPER: Code-Aware Paired-End Read Merging in DNA Data Storage" was submitted to *IEEE Transactions on Computational Biology and Bioinformatics* (October 2026).
 
 ## Dataset
 The paired-end reads dataset is available at the CAPER Dataset v1.0 release.   
