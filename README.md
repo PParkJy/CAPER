@@ -116,7 +116,7 @@ For example, Proposed-Naive (DQ) with FLASH:
 ## Output
 Each run writes two files to `../result/`, creating the folder if it does not exist.
 
-### `result_<start>_<end>_<suffix>.txt`
+`result_<start>_<end>_<suffix>.txt`
 
 One line per idx.
 
@@ -132,7 +132,7 @@ One line per idx.
 | `base_error` | bit error rate against the original |
 | `read_limit` | number of reads used (= `RSN`) |
 
-### `summary_<start>_<end>_<suffix>.txt`
+`summary_<start>_<end>_<suffix>.txt`
 
 A single line for the whole run.
 
