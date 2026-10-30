@@ -2,6 +2,7 @@
 "CAPER: Code-Aware Paired-End Read Merging in DNA Data Storage" was submitted to *IEEE Transactions on Computational Biology and Bioinformatics* (October 2026).
 
 ## Dataset
+You can get the R1/R2 FASTQ files and checksum file from [CAPER-release-beta](https://github.com/PParkJy/CAPER/releases/tag/v1.0.0.-beta).  
 Because of their size, the R1/R2 FASTQ files are compressed and split into two parts.  
 Run the following in the `data/` folder:
 
