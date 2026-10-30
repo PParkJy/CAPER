@@ -164,3 +164,7 @@ What each part means:
 - `_ngmerge_p400`: NGmerge mismatch 0.4
 - `_flash_M150_x400`: FLASH max overlap 150, mismatch 0.4
 - `_k`, `_f`, `_qs`: added only when K, M or Q differ from the defaults (5, 5, 20)
+
+## Contact
+E-main: wldus8677@gmail.com  
+Homepage: [Computing, Intelligence, and Communication Lab](https://cctl.jnu.ac.kr/)
